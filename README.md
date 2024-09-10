@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zinia Alexis John</h1>
-<h3 align="center">A passionate frontend developer and Web Designer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer and Web Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziniajohn&label=Profile%20views&color=0a9ccd&style=flat" alt="ziniajohn" /> </p>
