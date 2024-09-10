@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zinia Alexis John</h1>
 <h3 align="center">A passionate frontend developer and Web Designer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziniajohn&label=Profile%20views&color=0a9ccd&style=flat" alt="ziniajohn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziniajohn" alt="ziniajohn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zinia_john" target="blank"><img src="https://img.shields.io/twitter/follow/zinia_john?logo=twitter&style=for-the-badge" alt="zinia_john" /></a> </p>
 
@@ -30,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziniajohn&show_icons=true&locale=en" alt="ziniajohn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziniajohn&" alt="ziniajohn" /></p>
-
