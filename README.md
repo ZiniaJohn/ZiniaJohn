@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zinia Alexis John</h1>
 <h3 align="center">A passionate frontend developer and Web Designer from Pakistan</h3>
 
-<p align="left"> <img src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="ziniajohn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziniajohn&label=Profile%20views&color=0a9ccd&style=flat" alt="ziniajohn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziniajohn" alt="ziniajohn" /></a> </p>
 
