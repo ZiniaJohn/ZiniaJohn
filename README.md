@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **ziniajohn123@gmail.com**
 
-- ⚡ Fun fact **I have a decent designing sense**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
